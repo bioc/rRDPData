@@ -5,7 +5,7 @@ Version: 0.101.1
 Date: 2014-08-19
 Author: Michael Hahsler, Anurag Nagar
 Maintainer: Michael Hahsler <mhahsler@lyle.smu.edu>
-biocViews: SequencingData, RNASeqData, MicrobiomeData
+biocViews: SequencingData, MicrobiomeData
 Depends: rRDP
 SystemRequirements: Java
 License: GPL-2
