@@ -1,7 +1,7 @@
 Package: rRDPData
 Title: Database for the Default RDP Classifier
 Description: Database used by the default RDP Classifier
-Version: 1.8.0
+Version: 1.9.0
 Date: 2014-08-19
 Author: Michael Hahsler, Anurag Nagar
 Maintainer: Michael Hahsler <mhahsler@lyle.smu.edu>
